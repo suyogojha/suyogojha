@@ -45,7 +45,7 @@
 [![Suyog github activity graph](https://activity-graph.herokuapp.com/graph?username=suyogojha&theme=dracula)](https://github.com/suyogojha/github-readme-activity-graph)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyogojha&show_icons=true&locale=en&layout=compact" alt="suyogojha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suyogojha&show_icons=true&locale=en&layout=compact" alt="suyogojha" /></p>
 
 
 
