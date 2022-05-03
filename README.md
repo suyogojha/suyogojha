@@ -7,6 +7,9 @@
 <h1 align="center">Hi 👋, I'm Suyog Ojha</h1>
 <h3 align="center">A Developer, Designer and sometimes a Blogger who loves bringing designs to life through coding.</h3>
 
+<img src="https://media-exp1.licdn.com/dms/image/C5616AQF60UkRi-4PSw/profile-displaybackgroundimage-shrink_350_1400/0/1648390932082?e=2147483647&v=beta&t=eF7n5nA3AE8iezeIVk4EEur8qpVMaPBJz8dhKZqlvy4"> 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suyogojha&label=Profile%20views&color=0e75b6&style=flat" alt="suyogojha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyogojha" alt="suyogojha" /></a> </p>
