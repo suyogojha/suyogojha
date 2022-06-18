@@ -154,10 +154,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=suyogojha&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=donpablonow&theme=dracula)
  <br /><br/>
-<img align="center" width="40px" src="./assets/img/pablo-34.gif" />
-<img align="center" width="100px" src="./assets/img/pablo-4.gif" />
 
-<img align="center" width="150px" src="./assets/img/pablo-16.gif" />
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
