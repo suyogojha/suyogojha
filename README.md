@@ -185,29 +185,15 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center"> 
 
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" />
-  
-</p>
-
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### ⚙️ &nbsp;Activity Graph 
 [![Suyog github activity graph](https://activity-graph.herokuapp.com/graph?username=suyogojha&theme=react-dark)](https://github.com/suyogojha/github-readme-activity-graph)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-<h4 align="center">
+
+
 
 
 
