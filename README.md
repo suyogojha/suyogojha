@@ -18,7 +18,6 @@
 
 <h3 align="center">A Developer, Designer and sometimes a Blogger who loves bringing designs to life through coding.</h3>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img src="https://media-exp1.licdn.com/dms/image/C5616AQF60UkRi-4PSw/profile-displaybackgroundimage-shrink_350_1400/0/1648390932082?e=2147483647&v=beta&t=eF7n5nA3AE8iezeIVk4EEur8qpVMaPBJz8dhKZqlvy4"> 
 
 <p align="center"> <img width="150px" src="https://komarev.com/ghpvc/?username=suyogojha&label=Profile%20views&color=0e75b6&style=flat" alt="suyogojha" /> </p>
 
