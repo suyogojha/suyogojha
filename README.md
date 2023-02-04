@@ -128,10 +128,7 @@
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
-[![Suyog's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyogojha)](https://github.com/suyogojha/github-readme-stats)
-  
 
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
 ### ⚙️ &nbsp;Wakatime Stats
   
