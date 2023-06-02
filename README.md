@@ -130,14 +130,7 @@
   
 
   
-### ⚙️ &nbsp;Wakatime Stats
-  
-<p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=suyogojha&theme=github_dark">
-</p>
 
-
-<br>
 
 
 ### ⚙️ &nbsp;Stats
