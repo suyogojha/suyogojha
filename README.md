@@ -33,27 +33,6 @@
   <img alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="50%" align="right"  />
 
 
-</a>
-
-- 🔭 I’m currently working on **Backend Development**
-
-- 🌱 I’m currently learning **AI & ML**
-
-- 👨‍💻 All of my projects are available at [https://github.com/suyogojha](https://github.com/suyogojha)
-
-- 📝 I regularly write articles on [https://suyog-ojha.herokuapp.com/blog/](https://suyog-ojha.herokuapp.com/blog/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, Django, MYSQL**
-
-- 📫 How to reach me **Suyogojha2014@gmail.com**
-
-- 📄 Know about my experiences [https://suyog-ojha.herokuapp.com/portfolio/](https://suyog-ojha.herokuapp.com/portfolio/)
-
-- ⚡ Fun fact **SELECT * FROM people WHERE goals = ‘same’**
-
-<br/>
-<br/>
-
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
